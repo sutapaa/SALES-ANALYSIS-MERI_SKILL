@@ -3,11 +3,14 @@
 🎯 Project Goal:
 
 Objective: To analyze sales data for better decision-making.
-📂 The Data: 
+
+📂 The Data:
+
 Description: An Excel sheet containing 10,000 entries, detailing sales across nine cities for twelve electronics products.
 
 
 🧹 Data Cleanup:
+
  Process: Employed Power Query Editor in Power BI to ensure data accuracy and integrity.
  
 🔮 Key Discoveries:
